@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 ## Research
----
