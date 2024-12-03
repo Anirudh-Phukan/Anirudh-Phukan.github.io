@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ---
-[PDF]()
+[PDF](https://raw.githubusercontent.com/Anirudh-Phukan/Anirudh-Phukan.github.io/master/files/Resume.pdf)
