@@ -7,8 +7,11 @@ author_profile: true
 
 ---
 ## Preprints
-1. **Anirudh Phukan**, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187), arXiv:2411.19187, 2024.
-2. Shwetha Somasundaram, **Anirudh Phukan**, and Apoorv Saxena. [PLD+: Accelerating LLM inference by leveraging Language Model Artifacts](https://arxiv.org/abs/2412.01447), arXiv:2412.01447, 2024.
+1. **Anirudh Phukan**, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187), arXiv:2411.19187, 2024.  
+*Under ACL Rolling Review (Meta-Review Score: 4/5)*  
+
+2. Shwetha Somasundaram, **Anirudh Phukan**, and Apoorv Saxena. [PLD+: Accelerating LLM inference by leveraging Language Model Artifacts](https://arxiv.org/abs/2412.01447), arXiv:2412.01447, 2024.  
+*Under ACL Rolling Review (Meta-Review Score: 4/5)*
 
 
 ## Conferences
