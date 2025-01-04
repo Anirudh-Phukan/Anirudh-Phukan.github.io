@@ -2,6 +2,7 @@
 permalink: /
 title: "Bio"
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
