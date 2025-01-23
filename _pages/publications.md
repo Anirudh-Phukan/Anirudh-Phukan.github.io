@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 ## Conferences
-1. **Anirudh Phukan**, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187), In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies  
+1. **Anirudh Phukan**, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187), In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
 
 2. Shwetha Somasundaram, **Anirudh Phukan**, and Apoorv Saxena. [PLD+: Accelerating LLM inference by leveraging Language Model Artifacts](https://arxiv.org/abs/2412.01447), In Findings of the Association for Computational Linguistics: NAACL 2025.  
 
