@@ -14,7 +14,7 @@ Hi, I'm Anirudh, a Research Associate at [Adobe Research](https://research.adobe
 # Research 
 ---
 
-At [Adobe Research](https://research.adobe.com/), I collaborate with Dr. [Apoorv Saxena](https://research.adobe.com/person/apoorv-saxena/) and Dr. [Balaji V. Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) on advancing the attribution engine for Adobe Acrobat AI Assistant, a system that provides document references as evidence for AI-generated answers. Notably, I led the development of the [technology](https://arxiv.org/abs/2411.19187) powering attribution in contracts.
+At [Adobe Research](https://research.adobe.com/), I collaborate with Dr. [Apoorv Saxena](https://research.adobe.com/person/apoorv-saxena/) and Dr. [Balaji V. Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) on advancing the attribution engine for Adobe Acrobat AI Assistant, a system that provides document references as evidence for AI-generated answers. Notably, I led the development of the [technology](https://arxiv.org/abs/2411.19187) powering attribution in contracts, which was highlighted by Adobe’s CEO in a [Fox Business interview](https://www.foxbusiness.com/video/6368324084112) (6:45–7:15).
 
 My current focus is on improving the attribution feature by incorporating multimodality and multilinguality. Additionally, I have also worked on detecting and mitigating textual/visual hallucinations, optimizing LLM inference, improving context focus in LLMs and revisualising infographics for better user consumption. I tend to approach these challenges by leveraging model internals and explainability to ensure transparent and reliable AI systems.
 
