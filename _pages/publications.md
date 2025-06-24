@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+
 <style>
 .conference-banner {
     display: block;
