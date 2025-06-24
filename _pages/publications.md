@@ -20,8 +20,33 @@ author_profile: true
     width: fit-content;
 }
 
-.conference-banner.findings {
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+.notice--primary, .notice--info {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin: 25px 0 20px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.notice--primary::before, .notice--info::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+}
+
+.notice--primary h3, .notice--info h3 {
+    color: white !important;
+    margin: 0 !important;
+    font-size: 1.8em !important;
+    font-weight: 700 !important;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
 </style>
@@ -38,7 +63,7 @@ author_profile: true
 
 <li>Shwetha Somasundaram, <strong>Anirudh Phukan</strong>, and Apoorv Saxena. <a href="https://arxiv.org/abs/2412.01447">PLD+: Accelerating LLM inference by leveraging Language Model Artifacts</a>, In Findings of the Association for Computational Linguistics: NAACL 2025.
 
-<div class="conference-banner findings">NAACL Findings</div>
+<div class="conference-banner">NAACL Findings</div>
 </li>
 </ol>
 
@@ -49,7 +74,7 @@ author_profile: true
 <ol>
 <li><strong>Anirudh Phukan</strong>, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami, and Balaji Vasan Srinivasan. <a href="https://aclanthology.org/2024.findings-acl.682/">Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering</a>, In Findings of the Association for Computational Linguistics: ACL 2024.
 
-<div class="conference-banner findings">ACL Findings</div>
+<div class="conference-banner">ACL Findings</div>
 </li>
 
 <li>S. Kumar*, <strong>A. Phukan</strong>* and A. Sur. <a href="https://ieeexplore.ieee.org/abstract/document/10447607">IPCL: Iterative Pseudo-Supervised Contrastive Learning to Improve Self-Supervised Feature Representation</a>, ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
