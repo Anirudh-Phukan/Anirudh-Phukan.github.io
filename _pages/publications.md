@@ -62,7 +62,7 @@ author_profile: true
 <ol>
 <li><strong>Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs</strong><br/>
 <u>Anirudh Phukan</u>, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami<br/>
-<em>In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</em>
+<em>In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies</em>
 
 <div class="button-container">
 <div class="conference-banner">NAACL</div>
@@ -96,7 +96,7 @@ Shwetha Somasundaram, <u>Anirudh Phukan</u>, and Apoorv Saxena<br/>
 
 <li><strong>IPCL: Iterative Pseudo-Supervised Contrastive Learning to Improve Self-Supervised Feature Representation</strong><br/>
 S. Kumar*, <u>A. Phukan</u>* and A. Sur<br/>
-<em>ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>
+<em>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>
 
 <div class="button-container">
 <div class="conference-banner">ICASSP</div>
