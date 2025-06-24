@@ -29,25 +29,30 @@ author_profile: true
 <h3 style="margin-top: 0; text-align: left; font-size: 1.5em; color: #2c3e50;">2025</h3>
 </div>
 
-1. **Anirudh Phukan**, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187), In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+<ol>
+<li><strong>Anirudh Phukan</strong>, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. <a href="https://arxiv.org/abs/2411.19187">Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs</a>, In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
 
 <div class="conference-banner">NAACL</div>
+</li>
 
-2. Shwetha Somasundaram, **Anirudh Phukan**, and Apoorv Saxena. [PLD+: Accelerating LLM inference by leveraging Language Model Artifacts](https://arxiv.org/abs/2412.01447), In Findings of the Association for Computational Linguistics: NAACL 2025.  
+<li>Shwetha Somasundaram, <strong>Anirudh Phukan</strong>, and Apoorv Saxena. <a href="https://arxiv.org/abs/2412.01447">PLD+: Accelerating LLM inference by leveraging Language Model Artifacts</a>, In Findings of the Association for Computational Linguistics: NAACL 2025.
 
 <div class="conference-banner findings">NAACL Findings</div>
+</li>
+</ol>
 
 <div class="notice--info" markdown="1">
 <h3 style="margin-top: 0; text-align: left; font-size: 1.5em; color: #2c3e50;">2024</h3>
 </div>
 
-1. **Anirudh Phukan**, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami, and Balaji Vasan Srinivasan. [Peering into the Mind of Language Models: An Approach for Attribution in Contextual
-Question Answering](https://aclanthology.org/2024.findings-acl.682/), In Findings of the Association for Computational Linguistics: ACL 2024.
+<ol>
+<li><strong>Anirudh Phukan</strong>, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami, and Balaji Vasan Srinivasan. <a href="https://aclanthology.org/2024.findings-acl.682/">Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering</a>, In Findings of the Association for Computational Linguistics: ACL 2024.
 
 <div class="conference-banner findings">ACL Findings</div>
+</li>
 
-2. S. Kumar\*, **A. Phukan**\* and A. Sur. [IPCL: Iterative Pseudo-Supervised Contrastive Learning to
-Improve Self-Supervised Feature Representation](https://ieeexplore.ieee.org/abstract/document/10447607), ICASSP 2024 - 2024 IEEE International Conference
-on Acoustics, Speech and Signal Processing (ICASSP).
+<li>S. Kumar*, <strong>A. Phukan</strong>* and A. Sur. <a href="https://ieeexplore.ieee.org/abstract/document/10447607">IPCL: Iterative Pseudo-Supervised Contrastive Learning to Improve Self-Supervised Feature Representation</a>, ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
 <div class="conference-banner">ICASSP</div>
+</li>
+</ol>
