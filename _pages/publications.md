@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .conference-banner {
-    display: inline-block;
+    display: block;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     padding: 4px 12px;
@@ -17,6 +17,7 @@ author_profile: true
     margin-top: 8px;
     margin-bottom: 15px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    width: fit-content;
 }
 
 .conference-banner.findings {
