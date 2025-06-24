@@ -20,17 +20,19 @@ author_profile: true
     width: fit-content;
 }
 
-h3 {
+.year-heading {
     color: #555;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 5px;
     margin-top: 30px;
     margin-bottom: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 </style>
 
-<h3>2025</h3>
+<div class="year-heading">2025</div>
 
 <ol>
 <li><strong>Anirudh Phukan</strong>, Divyansh, Harshit Kumar Morj, Vaishnavi, Apoorv Saxena, and Koustava Goswami. <a href="https://arxiv.org/abs/2411.19187">Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs</a>, In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
@@ -44,7 +46,7 @@ h3 {
 </li>
 </ol>
 
-<h3>2024</h3>
+<div class="year-heading">2024</div>
 
 <ol>
 <li><strong>Anirudh Phukan</strong>, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami, and Balaji Vasan Srinivasan. <a href="https://aclanthology.org/2024.findings-acl.682/">Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering</a>, In Findings of the Association for Computational Linguistics: ACL 2024.
