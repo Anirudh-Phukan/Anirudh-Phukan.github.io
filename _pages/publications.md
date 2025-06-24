@@ -20,6 +20,14 @@ author_profile: true
     width: fit-content;
 }
 
+h3 {
+    color: #555;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 </style>
 
 <h3>2025</h3>
