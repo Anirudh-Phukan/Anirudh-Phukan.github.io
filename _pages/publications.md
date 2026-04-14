@@ -57,6 +57,30 @@ author_profile: true
 
 </style>
 
+<div class="year-heading">2026</div>
+
+<ol>
+<li><strong>ContextFocus: Activation Steering for Contextual Faithfulness in Large Language Models</strong><br/>
+Nikhil Anand, Shwetha Somasundaram, <u>Anirudh Phukan</u>, Apoorv Saxena, and Koyel Mukherjee<br/>
+<em>arXiv preprint arXiv:2601.04131, 2026</em> <span style="color: #666;"><em>[Under Review at CoNLL 2026]</em></span>
+
+<div class="button-container">
+<div class="conference-banner">arXiv</div>
+<a href="https://arxiv.org/pdf/2601.04131" class="pdf-button">PDF</a>
+</div>
+</li>
+
+<li><strong>Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG</strong><br/>
+Agam Goyal, Koyel Mukherjee, Apoorv Saxena, <u>Anirudh Phukan</u>, Eshwar Chandrasekharan, and Hari Sundaram<br/>
+<em>In Findings of the Association for Computational Linguistics: ACL 2026</em>
+
+<div class="button-container">
+<div class="conference-banner">ACL Findings</div>
+<a href="https://arxiv.org/pdf/2604.06097" class="pdf-button">PDF</a>
+</div>
+</li>
+</ol>
+
 <div class="year-heading">2025</div>
 
 <ol>
