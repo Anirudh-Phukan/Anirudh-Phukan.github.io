@@ -55,19 +55,9 @@ author_profile: true
     font-weight: bold;
 }
 
-.section-heading {
-    color: #333;
-    border-bottom: 3px solid #c0c0c0;
-    padding-bottom: 6px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    font-size: 1.9em;
-    font-weight: bold;
-}
-
 </style>
 
-<div class="section-heading">Preprints</div>
+<div class="year-heading">Preprints</div>
 
 <ol>
 <li><strong>BlindToChange: AI Agents Can Find Changes When Asked But Do They Look When Needed?</strong><br/>
@@ -90,8 +80,6 @@ Nikhil Anand, Shwetha Somasundaram, <u>Anirudh Phukan</u>, Apoorv Saxena, and Ko
 </div>
 </li>
 </ol>
-
-<div class="section-heading">Publications</div>
 
 <div class="year-heading">2026</div>
 
